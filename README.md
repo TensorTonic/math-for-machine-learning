@@ -146,6 +146,8 @@ Information theory explains the losses used to train classifiers and language mo
 
 Once the math feels familiar, the next step is to use it to build models. The [problem list](https://www.tensortonic.com/problems) has problems that go from a single loss function up to full training loops, and the [ML Math](https://www.tensortonic.com/ml-math) page has visual explanations of every topic above.
 
+For a written overview of how much math you need and in what order, read the [What Maths Do You Need for Machine Learning?](https://www.tensortonic.com/guides/maths-for-machine-learning) guide. The [ML Math Formula Sheet](https://www.tensortonic.com/guides/ml-math-formula-sheet) collects the statistics, linear algebra and calculus formulas from these stages on one page, and the [linear algebra guide](https://www.tensortonic.com/guides/learn-linear-algebra-for-machine-learning) shows how to learn Stage 2 through code if your math is shaky.
+
 ## License
 
 MIT
