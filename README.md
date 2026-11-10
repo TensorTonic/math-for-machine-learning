@@ -148,6 +148,8 @@ Once the math feels familiar, the next step is to use it to build models. The [p
 
 For a written overview of how much math you need and in what order, read the [What Maths Do You Need for Machine Learning?](https://www.tensortonic.com/guides/maths-for-machine-learning) guide. The [ML Math Formula Sheet](https://www.tensortonic.com/guides/ml-math-formula-sheet) collects the statistics, linear algebra and calculus formulas from these stages on one page, and the [linear algebra guide](https://www.tensortonic.com/guides/learn-linear-algebra-for-machine-learning) shows how to learn Stage 2 through code if your math is shaky.
 
+Stage 1 is also the subject of the [Statistics Interview Questions](https://www.tensortonic.com/guides/statistics-interview-questions) guide, which covers the probability and statistics questions asked in machine learning and data science interviews.
+
 ## License
 
 MIT
