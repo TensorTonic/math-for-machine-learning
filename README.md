@@ -150,6 +150,8 @@ For a written overview of how much math you need and in what order, read the [Wh
 
 Stage 1 is also the subject of the [Statistics Interview Questions](https://www.tensortonic.com/guides/statistics-interview-questions) guide, which covers the probability and statistics questions asked in machine learning and data science interviews.
 
+To see where this math shows up in interviews, the [Machine Learning Interview Questions](https://www.tensortonic.com/guides/machine-learning-interview-questions) guide covers the core theory questions, and the [NumPy Interview Questions](https://www.tensortonic.com/guides/numpy-interview-questions) guide covers the array and linear algebra questions that test the same ideas in code.
+
 ## License
 
 MIT
